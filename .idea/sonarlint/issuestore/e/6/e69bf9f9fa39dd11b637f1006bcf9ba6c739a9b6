@@ -1,0 +1,21 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(­ş¬ûÿÿÿÿ8„è´à/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(“É§ûÿÿÿÿ8ÍÒà/
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(ñ¥›§ùÿÿÿÿ8ö÷Œá/
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(ò¸­Šıÿÿÿÿ8ÿ¥”á/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‘¢€ƒıÿÿÿÿ8Ü–¥á/
+Q
+java:S6212"/Declare this local variable with "var" instead.(Ó°¬Ñøÿÿÿÿ8ĞÔÍš/
+T
+java:S1135"2Complete the task associated to this TODO comment.(Î©Ùùÿÿÿÿ8í±’à/
+Q
+java:S6212"/Declare this local variable with "var" instead.(’ì²ıÿÿÿÿ8ØÔÍš/
+>
+java:S1659""!Declare "sum" on a separate line.(Æ—ÇÔ8ªòÈà/
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(¨˜¾ê8ªòÈà/
+Q
+java:S62120"/Declare this local variable with "var" instead.(©ŒºÉûÿÿÿÿ8áÔÍš/
+L
+java:S62121"/Declare this local variable with "var" instead.(¹£ØÑ8âÔÍš/
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(°¥…µúÿÿÿÿ8ƒÚ‡á/

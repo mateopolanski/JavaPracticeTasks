@@ -1,0 +1,14 @@
+
+m	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+r	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÂÒ“Óüÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(é°í
+D
+java:S6212"/Declare this local variable with "var" instead.(Ğšv
+1
+java:S1116"Remove this empty statement.(”Í½
+L
+java:S1751"6Remove this "return" statement or make it conditional.(ï—îº
+E
+java:S6212"/Declare this local variable with "var" instead.(ßåÍ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(àÕêåşÿÿÿÿ

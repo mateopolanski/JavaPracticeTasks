@@ -1,0 +1,26 @@
+
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8¼„üÎ„/
+U	java:S106L"9Replace this use of System.out or System.err by a logger.(×•œ²8¼„üÎ„/
+{
+java:S2293w"YReplace the type specification in this constructor call with the diamond operator ("<>").(ö’ÿâÿÿÿÿÿ8¼„üÎ„/
+|
+java:S2293‰"YReplace the type specification in this constructor call with the diamond operator ("<>").(ö’ÿâÿÿÿÿÿ8¼„üÎ„/
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù…Ş8¶ Ç†/
+
+java:S1149`"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(æ†ÅŸûÿÿÿÿ8¼„üÎ„/
+‘
+java:S1319"oThe type of the "data" object should be an interface such as "List" rather than the implementation "ArrayList".(µ‹îÉıÿÿÿÿ8¼„üÎ„/
+Z	java:S106O"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8¼„üÎ„/
+[
+java:S1481">Remove this unused "MatrixDimensionsException" local variable.(Ù…Ş8¶ Ç†/
+A
+java:S1659—"#Declare "colls" on a separate line.(–¾8¼„üÎ„/
+‚
+java:S1149‚"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(æ†ÅŸûÿÿÿÿ8¼„üÎ„/
+v
+java:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÆñãÙ8¼„üÎ„/
+{
+java:S2293f"YReplace the type specification in this constructor call with the diamond operator ("<>").(ö’ÿâÿÿÿÿÿ8¼„üÎ„/
+U	java:S106K"9Replace this use of System.out or System.err by a logger.(çü©Ã8¼„üÎ„/
+
+java:S1149q"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(æ†ÅŸûÿÿÿÿ8¼„üÎ„/

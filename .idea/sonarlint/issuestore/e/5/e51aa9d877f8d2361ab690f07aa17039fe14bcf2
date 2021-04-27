@@ -1,0 +1,36 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶¬óöÿÿÿÿÿ8Ú¾ÙúŒ/
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä˜—8õ£ƒ/
+u	java:S116	"YRename this field "favorite_color" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡‘Ö®8Ú¾ÙúŒ/
+T
+java:S1854)"8Remove this useless assignment to local variable "emp2".(ßàˆ38»äùúŒ/
+U
+java:S1854("8Remove this useless assignment to local variable "emp1".(¨êñ¡8éÙşŒ/
+L
+java:S6212("/Declare this local variable with "var" instead.(¨êñ¡8öĞÍš/
+K
+java:S6212)"/Declare this local variable with "var" instead.(ßàˆ38úĞÍš/
+L
+java:S6212+"/Declare this local variable with "var" instead.(¶ÊÓê8ıĞÍš/
+]	java:S125*"<This block of commented-out lines of code should be removed.(Û“öıÿÿÿÿ8ßä²ƒ/
+L
+java:S6212."/Declare this local variable with "var" instead.(Ëƒµ©8ÑÍš/
+L
+java:S6212/"/Declare this local variable with "var" instead.(æı‚—8‚ÑÍš/
+Q
+java:S62120"/Declare this local variable with "var" instead.(…±° üÿÿÿÿ8ƒÑÍš/
+L
+java:S62121"/Declare this local variable with "var" instead.(¼Ò¿Æ8…ÑÍš/
+]	java:S1250"<This block of commented-out lines of code should be removed.(…±° üÿÿÿÿ8¦–ƒ/
+L
+java:S62122"/Declare this local variable with "var" instead.(”Åüó8ˆÑÍš/
+Q
+java:S62123"/Declare this local variable with "var" instead.(şùşÿÿÿÿ8ŠÑÍš/
+L
+java:S62125"/Declare this local variable with "var" instead.(¨Å˜¸8ŒÑÍš/
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(Ìÿ€Òıÿÿÿÿ8ĞÊİşŒ/
+X	java:S125:"<This block of commented-out lines of code should be removed.(ôÓÙÁ8»äùúŒ/
+F
+java:S1481(")Remove this unused "emp1" local variable.(¨êñ¡8éÙşŒ/
+E
+java:S1481)")Remove this unused "emp2" local variable.(ßàˆ38»äùúŒ/

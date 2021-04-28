@@ -11,8 +11,6 @@ I
 src/MethodParameters.java,e\d\ed607bafbec67462908f5b145b6780c49bcac853
 D
 src/Constructor.java,7\6\76e332ab211aeb3a50fb5bdfd65d105bf420df47
-T
-$src/ArrayListDodawanieZIteracji.java,4\7\47f28cdacc3f0ab81a225f1fe81fe4d374afc957
 E
 src/Calculations.java,9\6\96092f536b0780269bab01713a9100ec030266e1
 E
@@ -21,8 +19,6 @@ F
 src/CreatingFiles.java,a\b\ab230822566b5256a059c1ae8da8e9a56e7d90da
 C
 src/Iterowanie.java,9\b\9bc9cfe1723d0bc4ca150e14a338dd2896486cb6
-C
-src/FileReader.java,d\5\d5fae300b7ba6861ad45810695a43236d43a4554
 @
 src/Bowling.java,6\8\682c6253947f4084050e0f52d1b597d5605bd8fa
 F

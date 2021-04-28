@@ -10,6 +10,7 @@ public class Exceptions {
 
 /*
  *      code above will throw an exception
+ *      solution how to handle it is below...
  */
 
 //-------------------------------------------------------
